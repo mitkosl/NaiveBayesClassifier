@@ -1,0 +1,16 @@
+D:\NaiveBayesClasifier\Solution1\NaiveBayes\bin\Debug\NaiveBayes.exe.config
+D:\NaiveBayesClasifier\Solution1\NaiveBayes\bin\Debug\NaiveBayes.exe
+D:\NaiveBayesClasifier\Solution1\NaiveBayes\bin\Debug\NaiveBayes.pdb
+D:\NaiveBayesClasifier\Solution1\NaiveBayes\obj\Debug\NaiveBayes.csprojResolveAssemblyReference.cache
+D:\NaiveBayesClasifier\Solution1\NaiveBayes\obj\Debug\NaiveBayes.exe
+D:\NaiveBayesClasifier\Solution1\NaiveBayes\obj\Debug\NaiveBayes.pdb
+D:\NaiveBayesClasifier\Solution1\NaiveBayes\bin\Debug\Newtonsoft.Json.dll
+D:\NaiveBayesClasifier\Solution1\NaiveBayes\bin\Debug\Newtonsoft.Json.xml
+D:\NaiveBayesClasifier\NaiveBayes\bin\Debug\NaiveBayes.exe.config
+D:\NaiveBayesClasifier\NaiveBayes\obj\Debug\NaiveBayes.exe
+D:\NaiveBayesClasifier\NaiveBayes\obj\Debug\NaiveBayes.pdb
+D:\NaiveBayesClasifier\NaiveBayes\bin\Debug\NaiveBayes.exe
+D:\NaiveBayesClasifier\NaiveBayes\bin\Debug\NaiveBayes.pdb
+D:\NaiveBayesClasifier\NaiveBayes\bin\Debug\Newtonsoft.Json.dll
+D:\NaiveBayesClasifier\NaiveBayes\bin\Debug\Newtonsoft.Json.xml
+D:\NaiveBayesClasifier\NaiveBayes\obj\Debug\NaiveBayes.csprojResolveAssemblyReference.cache
